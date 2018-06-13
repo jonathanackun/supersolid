@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "4.16.2",
-    "jsonfile": "^4.0.0"
+    "is-palindrome": "^0.3.0",
+    "jsonfile": "^4.0.0",
+    "nodemon": "^1.17.5"
   },
   "scripts": {
     "start": "node index.js"
